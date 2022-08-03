@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/DailyDevTips"
+<a href="https://app.daily.dev/MadMax"
     ><img
       align="right"
       src="https://github.com/madanbajgai/madanbajgai/blob/main/devcard.svg"
