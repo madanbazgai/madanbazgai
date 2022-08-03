@@ -244,7 +244,6 @@
   </a>
 </p>
 <br /><br />
----
 
 ## Latest blog posts
 
