@@ -43,6 +43,13 @@
       style="margin-left: 10px"
   /></a> -->
 </p>
+ <a href="https://app.daily.dev/DailyDevTips"
+    ><img
+      align="right"
+      src="https://github.com/madanbajgai/madanbajgai/blob/main/devcard.svg"
+      width="350"
+      alt="Madan Bajgai's Dev Card"
+  /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
