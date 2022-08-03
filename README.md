@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/madanbajgai/madanbajgai/blob/master/devcard.svg" width="400" alt="Madan Bajgai's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/madanbajgai/madanbajgai/blob/main/devcard.svg" width="400" alt="Madan Bajgai's Dev Card"/></a>
 
 
