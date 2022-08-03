@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 <a href="https://app.daily.dev/MadMax"
     ><img
       align="right"
@@ -244,7 +244,14 @@
   </a>
 </p>
 <br /><br />
+---
 
+## Latest blog posts
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 
