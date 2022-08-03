@@ -120,7 +120,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png?20190307203525"
       alt="nextjs"
-      width="40"
+      width="50"
       height="40"
     /> </a
   ><a href="https://vercel.com/" target="_blank">
