@@ -238,7 +238,7 @@
   </a>
 </p>
 <br /><br />
-<p align="right">
+<p align="left">
   <a href="https://app.daily.dev/DailyDevTips"
     ><img
       src="https://github.com/madanbajgai/madanbajgai/blob/main/devcard.svg"
