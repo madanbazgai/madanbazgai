@@ -193,7 +193,7 @@
     /> </a
   ><a href="https://www.php.net" target="_blank">
     <img
-      src="https://geoxis.co/wp-content/uploads/2019/09/1499794873php-logo-filled-png.png"
+      src="https://png.pngitem.com/pimgs/s/11-119893_php-logo-in-png-transparent-png.png"
       alt="php"
       width="40"
       height="40"
