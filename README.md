@@ -195,7 +195,7 @@
     <img
       src="https://png.pngitem.com/pimgs/s/11-119893_php-logo-in-png-transparent-png.png"
       alt="php"
-      width="40"
+      width="50"
       height="40"
     /> </a
   ><a href="https://www.mysql.com/" target="_blank">
