@@ -193,7 +193,7 @@
     /> </a
   ><a href="https://www.php.net" target="_blank">
     <img
-      src="https://png.pngitem.com/pimgs/s/11-119893_php-logo-in-png-transparent-png.png"
+      src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png"
       alt="php"
       width="50"
       height="40"
