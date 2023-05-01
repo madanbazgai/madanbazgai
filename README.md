@@ -4,9 +4,10 @@
   <img align="right" src="https://github.com/madanbajgai/madanbajgai/blob/main/devcard.svg" width="350" alt="Madan Bajgai's Dev Card" />
 </a>
 
-<h3>I'm a Frontend Developer from Nepal.</h3>
+<h3>I'm a Web Developer from Nepal.</h3>
 
-- 👨‍💻 Portfolio website [https://madanbajgai.com.np](https://madanbajgai.com.np) - 📫 reach me: **madanbajgai@gmail.com**
+- 👨‍💻 Portfolio website [https://madanbajgai.com.np](https://madanbajgai.com.np) 
+- - 📫 reach me: **madanbajgai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
