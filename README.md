@@ -91,12 +91,12 @@
 
   <!-- NodeJS -->
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs"  height="40" />
   </a>
 
   <!-- Express JS -->
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+    <img src="https://testrigor.com/wp-content/uploads/2023/01/express-logo.png" alt="express" height="40" />
   </a>
 
   <!-- Mongodb -->
