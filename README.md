@@ -86,7 +86,7 @@
 
   <!-- Progressive Web App -->
   <a href="https://web.dev/progressive-web-apps/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" alt="Progressive Web App" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" alt="Progressive Web App" height="30" />
   </a>
 
   <!-- NodeJS -->
