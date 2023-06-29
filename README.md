@@ -8,7 +8,6 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 </a>
 
 
-
 - 👨‍💻 Portfolio website [https://madanbajgai.com.np](https://madanbajgai.com.np) 
 - 📫 reach me: **madanbajgai@gmail.com**
 
