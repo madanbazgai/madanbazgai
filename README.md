@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 ### I'm a Web Developer from Nepal.
 
 I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **PWA**, **NodeJs/Express**, **React Native**, **drizzle**.
@@ -7,8 +8,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
   <img align="right" src="https://github.com/madanbajgai/madanbajgai/blob/main/devcard.svg" width="250" alt="Madan Bajgai's Dev Card" />
 </a>
 
-
-- 👨‍💻 Portfolio website [https://madanbajgai.com.np](https://madanbajgai.com.np) 
+- 👨‍💻 Portfolio website [https://madanbajgai.com.np](https://madanbajgai.com.np)
 - 📫 reach me: **madanbajgai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -39,6 +39,11 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://user-images.githubusercontent.com/98990/89711240-4172a200-d989-11ea-8d51-4aaf922fa407.png" alt="Tailwind CSS" width="40" height="40" />
+  </a>
+
+  <!-- Shadcn  -->
+  <a href="https://ui.shadcn.com/" target="_blank">
+    <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000" alt="Shadcn " width="40" height="40" />
   </a>
 
   <!-- Bootstrap -->
@@ -74,6 +79,36 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
   <!-- NextJS -->
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="50" height="40" />
+  </a>
+
+   <!-- Redux Toolkit -->
+  <a href="https://redux-toolkit.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux toolkit" width="40" height="40" />
+  </a> 
+  
+   <!-- Tanstack -->
+  <a href="https://tanstack.com/" target="_blank">
+    <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" alt="tanstack" width="40" height="40" />
+  </a>
+
+   <!-- React Query -->
+  <a href="https://tanstack.com/query/latest" target="_blank">
+    <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="tanstareact query" width="40" height="40" />
+  </a>
+
+ <!-- Zustand -->
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank">
+    <img src="https://img.stackshare.io/service/11559/zustand.png" alt="Zustand" width="40" height="40" />
+  </a>
+
+   <!-- Drizzle -->
+  <a href="https://orm.drizzle.team/" target="_blank">
+    <img src="https://pbs.twimg.com/media/F7V2rLQWUAAgaLh?format=jpg&name=360x360" alt="Drizzle" width="40" height="40" />
+  </a>
+
+<!-- Bun -->
+  <a href="https://bun.sh/" target="_blank">
+    <img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="bun" width="40" height="40" />
   </a>
 
   <!-- Svelte/ Svelte-kit -->
@@ -165,6 +200,37 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40" />
   </a>
+
+<!-- Linux -->
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="linux" width="40" height="40" />
+  </a>
+
+<!-- Ubuntu -->
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/285px-Logo-ubuntu_cof-orange-hex.svg.png?20130511162351" alt="ubuntu" width="40" height="40" />
+  </a>
+
+<!-- Arch -->
+  <a href="" target="_blank">
+    <img src="https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/600px-Arch-linux-logo.png" alt="arch" width="40" height="40" />
+  </a>
+
+<!-- Neovim -->
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/492px-Neovim-mark.svg.png?20150131093814" alt="neovim" width="40" height="40" />
+  </a>
+
+<!-- Tmux -->
+  <a href="" target="_blank">
+    <img src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png" alt="git" width="40" height="40" />
+  </a>
+
+  <!-- i3 -->
+  <a href="" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/I3_window_manager_logo.svg/323px-I3_window_manager_logo.svg.png" alt="i3" width="40" height="40" />
+  </a>
+  
 </p>
 <br /><br />
 
@@ -175,4 +241,3 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
