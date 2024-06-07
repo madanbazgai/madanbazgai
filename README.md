@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm a Web Developer from Nepal.
 
-I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **PWA**, **NodeJs/Express**, **Prisma for handling databases**.
+I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **PWA**, **NodeJs/Express**, **React Native**, **drizzle**.
 
 <a href="https://app.daily.dev/madanbazgai">
   <img align="right" src="https://github.com/madanbajgai/madanbajgai/blob/main/devcard.svg" width="250" alt="Madan Bajgai's Dev Card" />
