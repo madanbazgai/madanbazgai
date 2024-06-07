@@ -123,17 +123,17 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
   <!-- Progressive Web App -->
   <a href="https://web.dev/progressive-web-apps/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Progressive_Web_Apps_Logo.svg/1200px-Progressive_Web_Apps_Logo.svg.png" alt="Progressive Web App" height="30" />
+    <img src="https://i0.wp.com/shinesolutions.com/wp-content/uploads/2018/07/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png?fit=2048%2C771&ssl=1" alt="Progressive Web App" height="20" width="60" />
   </a>
 
   <!-- NodeJS -->
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs"  height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/2560px-Node.js_logo_2015.svg.png" alt="nodejs"  height="30" />
   </a>
 
   <!-- Express JS -->
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://testrigor.com/wp-content/uploads/2023/01/express-logo.png" alt="express" height="40" />
+    <img src="https://testrigor.com/wp-content/uploads/2023/01/express-logo.png" alt="express" height="30" />
   </a>
 
   <!-- Mongodb -->
@@ -163,12 +163,17 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
   <!-- PHP  -->
   <a href="https://www.php.net" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/751/3/png-transparent-logo-php-html-others-text-trademark-logo-thumbnail.png" alt="php" width="50" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" alt="php" width="60" height="30" />
+  </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40" />
   </a>
 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40" />
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo-500x313.png" alt="mysql" width="70" height="40" />
   </a>
 
   <!-- XAMPP -->
