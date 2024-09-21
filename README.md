@@ -113,7 +113,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
   <!-- HonoJs -->
   <a href="https://hono.dev/" target="_blank">
-    <img src="https://seeklogo.com/vector-logo/499529/hono" alt="hono" width="40" height="40" />
+    <img src="[https://seeklogo.com/vector-logo/499529/hono](https://avatars.githubusercontent.com/u/98495527?s=200&v=4)" alt="hono" width="40" height="40" />
   </a>
 
   <!-- Svelte/ Svelte-kit -->
