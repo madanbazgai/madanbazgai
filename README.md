@@ -111,6 +111,11 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
     <img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="bun" width="40" height="40" />
   </a>
 
+  <!-- HonoJs -->
+  <a href="https://hono.dev/" target="_blank">
+    <img src="https://seeklogo.com/vector-logo/499529/hono" alt="hono" width="40" height="40" />
+  </a>
+
   <!-- Svelte/ Svelte-kit -->
   <a href="https://svelte.dev/">
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--be3eR7Dm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nunomalex.me/svelte-logo.png" alt="Svelte Kit" height="40" />
