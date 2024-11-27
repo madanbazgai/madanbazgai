@@ -88,7 +88,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
   
    <!-- Tanstack -->
   <a href="https://tanstack.com/" target="_blank">
-    <img src="https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" alt="tanstack" width="40" height="40" />
+    <img src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" alt="tanstack" width="40" height="40" />
   </a>
 
    <!-- React Query -->
@@ -98,7 +98,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
  <!-- Zustand -->
   <a href="https://zustand-demo.pmnd.rs/" target="_blank">
-    <img src="https://img.stackshare.io/service/11559/zustand.png" alt="Zustand" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg"  width="40" height="40"/>
   </a>
 
    <!-- Drizzle -->
@@ -118,7 +118,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
   <!-- Svelte/ Svelte-kit -->
   <a href="https://svelte.dev/">
-    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--be3eR7Dm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://nunomalex.me/svelte-logo.png" alt="Svelte Kit" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Svelte_logo_by_gengns.svg/514px-Svelte_logo_by_gengns.svg.png?20191219134736" alt="Svelte Kit" height="40" />
   </a>
 
   <!-- Vercel -->
