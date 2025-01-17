@@ -43,7 +43,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
   <!-- Shadcn  -->
   <a href="https://ui.shadcn.com/" target="_blank">
-    <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000" alt="Shadcn " width="40" height="40" />
+    <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="Shadcn " width="40" height="40" />
   </a>
 
   <!-- Bootstrap -->
@@ -93,7 +93,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
    <!-- React Query -->
   <a href="https://tanstack.com/query/latest" target="_blank">
-    <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="tanstareact query" width="40" height="40" />
+    <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png" alt="tanstareact query" width="40" height="40" />
   </a>
 
  <!-- Zustand -->
@@ -247,7 +247,8 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
+[Ky.js: A Delightful Alternative to Axios](https://madanbajgai.com.np/blog/ky-js-is-a-modern-alternative-to-axios/)
+[Complete Guide to Building and Running Expo(React Native) Apps](https://madanbajgai.com.np/blog/complete-guide-to-building-and-running-expo-react-native-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
