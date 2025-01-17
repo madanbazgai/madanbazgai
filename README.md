@@ -91,9 +91,9 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
     <img src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" alt="tanstack" width="40" height="40" />
   </a>
 
-   <!-- React Query -->
-  <a href="https://tanstack.com/query/latest" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png" alt="tanstareact query" width="40" height="40" />
+<!-- Tanstack Query -->
+  <a href="https://tanstack.com/query/latest/docs/framework/react/overview" target="_blank">
+    <img src="https://www.joesalinas.dev/_astro/rq.B6e3R7T5_SNg64.webp" alt="tanstack" width="40" height="40" />
   </a>
 
  <!-- Zustand -->
@@ -108,7 +108,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
 <!-- Bun -->
   <a href="https://bun.sh/" target="_blank">
-    <img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="bun" width="40" height="40" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_poHZD7zedIFVi_xyvSwkXCSsfmhNYElEQA&s" alt="bun" width="40" height="40" />
   </a>
 
   <!-- HonoJs -->
@@ -208,7 +208,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="40" height="40" />
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40" />
   </a>
 
 <!-- Linux -->
@@ -233,7 +233,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
 <!-- Tmux -->
   <a href="" target="_blank">
-    <img src="https://seeklogo.com/images/T/tmux-logo-E71523388A-seeklogo.com.png" alt="git" width="40" height="40" />
+    <img src="https://cdn.dribbble.com/users/2008/screenshots/2057601/tmux-dribbble.png" alt="tmux" width="60" height="40" />
   </a>
 
   <!-- i3 -->
