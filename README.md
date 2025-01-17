@@ -208,7 +208,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40" />
+    <img src="https://w1.pngwing.com/pngs/933/874/png-transparent-github-logo-version-control-source-code-branching-repository-code-review-software-repository-commit.png" alt="git" width="40" height="40" />
   </a>
 
 <!-- Linux -->
@@ -247,8 +247,8 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-[Ky.js: A Delightful Alternative to Axios](https://madanbajgai.com.np/blog/ky-js-is-a-modern-alternative-to-axios/)
-[Complete Guide to Building and Running Expo(React Native) Apps](https://madanbajgai.com.np/blog/complete-guide-to-building-and-running-expo-react-native-apps/)
+ - [Ky.js: A Delightful Alternative to Axios](https://madanbajgai.com.np/blog/ky-js-is-a-modern-alternative-to-axios/)
+ - [Complete Guide to Building and Running Expo(React Native) Apps](https://madanbajgai.com.np/blog/complete-guide-to-building-and-running-expo-react-native-apps/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
