@@ -208,7 +208,7 @@ I am currently working on **React/Nextjs**, **TypeScript**, **TailwindCSS**, **P
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://w1.pngwing.com/pngs/933/874/png-transparent-github-logo-version-control-source-code-branching-repository-code-review-software-repository-commit.png" alt="git" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git" width="40" height="40" />
   </a>
 
 <!-- Linux -->
